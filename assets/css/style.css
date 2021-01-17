@@ -1,0 +1,84 @@
+/*********************
+  Mixins
+**********************/
+img {
+  display: block;
+  max-width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+.signature {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 50px;
+  width: 1448px;
+  height: 431px;
+}
+.signature-left {
+  width: 207px;
+}
+.signature-left__logo img {
+  padding-right: 30px;
+  border-right: 3px solid black;
+}
+.signature-left__profile {
+  height: 255px;
+  min-width: 255px;
+  margin-top: 40px;
+}
+.signature-right {
+  margin-left: 60px;
+}
+.signature-right__name {
+  text-transform: uppercase;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+.signature-right__title {
+  font-size: 28px;
+  color: gray;
+  padding-bottom: 20px;
+}
+.signature-right__contact span {
+  font-size: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+.signature-right__contact p {
+  padding-top: 25px;
+}
+.signature-right__address {
+  text-transform: uppercase;
+  font-size: 22px;
+  color: #fcd366;
+}
+.signature-right__address li {
+  padding-right: 6px;
+  padding-left: 6px;
+  border-right: 1px solid orange;
+}
+.signature-right__social {
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+.signature-right__social li {
+  margin-right: 20px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background: black;
+}
+.signature-right__social li i {
+  padding: 10px;
+  color: azure;
+}
+.signature-right__social li i:nth-child(3) {
+  padding-left: 12px !important;
+}
+
+.flex {
+  display: flex;
+  align-content: center;
+}

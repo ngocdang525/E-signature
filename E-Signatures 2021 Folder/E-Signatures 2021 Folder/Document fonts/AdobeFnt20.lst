@@ -1,0 +1,138 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/Melissa/Desktop/Email Signatures/E-Signatures 2021 Folder/Document fonts/AdobeFnt20.lst
+FileLength:2800
+FileModTime:632257462
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+MenuName:Gotham Medium
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Gotham Medium
+WritingScript:Roman
+OutlineFileName:/Users/Melissa/Desktop/Email Signatures/E-Signatures 2021 Folder/Document fonts/Gotham-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128768
+FileModTime:307501902
+NameArray:0,Mac,4,Gotham Medium
+NameArray:0,Win,1,Gotham Medium
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+MenuName:Gotham Book
+StyleBits:0
+WeightClass:325
+WidthClass:5
+AngleClass:0
+FullName:Gotham Book
+WritingScript:Roman
+OutlineFileName:/Users/Melissa/Desktop/Email Signatures/E-Signatures 2021 Folder/Document fonts/Gotham-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128020
+FileModTime:208819422
+NameArray:0,Mac,4,Gotham Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+MenuName:Gotham Bold
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gotham Bold
+WritingScript:Roman
+OutlineFileName:/Users/Melissa/Desktop/Email Signatures/E-Signatures 2021 Folder/Document fonts/Gotham-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:127472
+FileModTime:208819416
+NameArray:0,Mac,4,Gotham Bold
+NameArray:0,Win,1,Gotham Bold
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:/Users/Melissa/Desktop/Email Signatures/E-Signatures 2021 Folder/Document fonts/Arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:773236
+FileModTime:576381465
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/Melissa/Desktop/Email Signatures/E-Signatures 2021 Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:457567749
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

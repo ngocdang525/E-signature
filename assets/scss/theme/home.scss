@@ -1,0 +1,85 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+li {
+  list-style: none;
+}
+.signature {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 50px;
+  width: 1448px;
+  height: 431px;
+  
+  &-left {
+    width: 207px;
+    &__logo {
+      img {
+        padding-right: 30px;
+        border-right: 3px solid black;
+      }
+    }
+    &__profile {
+      height: 255px;
+      min-width: 255px;
+      margin-top: 40px;
+    }
+  }
+  &-right {
+    margin-left: 60px;
+    &__name {
+      text-transform: uppercase;
+      font-size: 40px;
+      padding-bottom: 20px;
+    }
+    &__title {
+      font-size: 28px;
+      color: gray;
+      padding-bottom: 20px;
+    }
+    &__contact {
+      span{
+        font-size:20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+      }
+      p{
+        padding-top:25px;
+      }
+    }
+    &__address{
+      text-transform: uppercase;
+      font-size: 22px;
+      color:#fcd366;
+      li{
+        padding-right:6px;
+        padding-left:6px;
+        border-right:1px solid orange;
+      }
+    }
+    &__social {
+      margin-top: 22px;
+      margin-bottom: 22px;
+      li{
+        margin-right:20px;
+        height: 40px;
+        width: 40px;    
+        border-radius: 50%;
+        background: black;
+        
+        i{
+        padding: 10px;
+        color: azure;
+        &:nth-child(3){
+          padding-left:12px !important;
+        }
+        }
+      }
+    }
+  }
+}
+
+.flex {
+  display: flex;
+  align-content: center;
+}
